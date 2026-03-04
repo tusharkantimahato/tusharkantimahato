@@ -12,7 +12,7 @@ CSE Student.Learning ML and building things that work
 
 ## What I'm Learning & Building
 
-I'm a computer science student focused on building strong programming foundations and learning machine learning through hands-on projects.
+I'm a computer science student focused on building strong programming foundations and learning machine learning through hands on projects.
 
 I care about writing clean code that actually works. I test my functions. I handle errors. I write code that I can understand when I come back to it later.
 
@@ -56,9 +56,9 @@ I focus on understanding concepts, not memorizing formulas.
 - SQL — Querying databases
 
 ### Machine Learning
-- scikit-learn — My go-to for most ML tasks
-- XGBoost, LightGBM, CatBoost — Gradient boosting models
-- PyTorch — Still learning, use it for deep learning projects
+- scikit-learn My go to for most ML tasks
+- XGBoost, LightGBM, CatBoost Gradient boosting models
+- PyTorch |  Still learning, use it for deep learning projects
 
 ### Visualization
 - Matplotlib — Basic plots
